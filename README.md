@@ -1,4 +1,4 @@
-![image](https://github.com/yeoseojeong/RC-Car-Project/assets/121150215/f7af984e-9833-48d1-b0a9-bbcda0b4e7db)# RC-Car-Project
+# RC-Car-Project
 
 ### 개발 컨셉
 
